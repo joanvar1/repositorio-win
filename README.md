@@ -1,2 +1,2 @@
-# Curso de Git and GitHub
-Este repositorio es para los alumnos del curso en udemy
+# Git and GitHub
+Preparación de repositorio y subir primer archivo IPython
